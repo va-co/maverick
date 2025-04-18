@@ -1,6 +1,6 @@
 # Maverick: Real-Time Evasion Detection in Tree Ensemble Automotive Intrusion Detection Systems
 
-This repository contains the code and experiments for the paper titled **"Fast Evasion Detection & Alert Management in Tree-Ensemble-Based Intrusion Detection Systems"**, published in the Proceedings of the IEEE 36th International Conference on Tools with Artificial Intelligence (ICTAI), 2024.
+This repository contains the code and experiments for the paper titled **"Real-Time Evasion Detection in Tree Ensemble Automotive Intrusion Detection Systems"**, published in the Proceedings of the 16th IEEE Vehicular Networking Conference (VNC), 2025.
 
 ## Dependencies
 
