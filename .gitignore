@@ -1,0 +1,18 @@
+# Byte‑compiled / cache directories
+__pycache__/
+
+# Experiment directories
+Baseline\ Experiments/
+Construction\ Scalability/
+
+# CAN‑FD dataset exclusions
+can-fd/CAN-FD_Intrusion_Dataset/
+
+# Specific processed CSVs in can-fd
+can-fd/processed_CANFD_Flooding.csv
+can-fd/processed_CANFD_Fuzzing.csv
+can-fd/processed_CANFD_Malfunction.csv
+
+Post-Detection-FD-CAN/X_fd.pkl
+Post-Detection-FD-CAN/y_fd_extended.pkl
+Post-Detection-FD-CAN/y_fd.pkl
